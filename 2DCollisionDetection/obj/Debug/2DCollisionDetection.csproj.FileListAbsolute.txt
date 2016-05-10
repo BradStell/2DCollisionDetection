@@ -1,0 +1,14 @@
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection.csprojResolveAssemblyReference.cache
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\MainWindow.g.cs
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\App.g.cs
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection_MarkupCompile.cache
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection_MarkupCompile.lref
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\bin\Debug\2DCollisionDetection.exe.config
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\bin\Debug\2DCollisionDetection.exe
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\bin\Debug\2DCollisionDetection.pdb
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\MainWindow.baml
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection.g.resources
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\_2DCollisionDetection.Properties.Resources.resources
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection.csproj.GenerateResource.Cache
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection.exe
+C:\Users\Brad\School\Spring 2016\Robotic_Haptic_Interactions-6050\2DCollisionDetection\2DCollisionDetection\obj\Debug\2DCollisionDetection.pdb
